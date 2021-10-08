@@ -1,3 +1,3 @@
 # JavaTutorial
-Basics programs Of Java
+Basic programs Of Java
 
